@@ -6,7 +6,7 @@ Exports your Bear notes as individual .md files whenever the Bear database chang
 
 Optionally mirrors the output to a secondary location (Nextcloud, external drive) via rsync.
 
-![Bear sync pipeline]j(Bear sync pipeline diagram.jpg)
+![Bear sync pipeline](Bear%20sync%20pipelinge%20diagram.png)
 
 ---
 
