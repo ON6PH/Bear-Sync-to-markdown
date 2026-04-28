@@ -1,4 +1,4 @@
-bear-sync
+# Bear Sync To Markdown
 
 Incremental Bear → Markdown sync using the new bearcli (Bear 2.8 beta).
 
